@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Spotify V2</string>
+    <string name="spotify">Spotify</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="log_in">Log in</string>
+    <string name="if_you_don_t_have_an_account_create_one_now">If you don\'t have an account, create one now!</string>
+    <string name="create_account1">Create account</string>
+    <string name="firstname_username">FirstName(Username)</string>
+    <string name="lastname1">LastName</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="password2">Password</string>
+    <string name="create">Create</string>
+    <string name="introduceti_username">Introduceti Username</string>
+    <string name="introduceti_lastname">Introduceti LastName</string>
+    <string name="introduceti_email">Introduceti Email</string>
+    <string name="introduceti_parola">Introduceti Parola</string>
+    <string name="create_now">Create Now</string>
+</resources>
